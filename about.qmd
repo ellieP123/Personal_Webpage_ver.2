@@ -1,0 +1,34 @@
+---
+title: "About"
+image: HyeriPark.JPG
+resources: CV_Hyeri Park_1124.pdf
+about: 
+  template: broadside
+  image-shape: rectangle
+  image-width: 12em
+  id: ppc
+  
+---
+::: {#ppc}
+Hyeri is a PhD student at the University of Maryland, College Park, studying environmental and international trade issues in the Government and Politics department.
+
+## Education
+
+[University of Maryland, College Park](https://gvpt.umd.edu) \| College Park, MD \| PhD in Government and Politics \| Aug 2023 - present
+
+Seoul National University, Graduate School of International Studies \| Seoul, South Korea \| M.A. in International Commerce \| Mar 2018 - Jun 2020
+
+Syracuse University \| Syracuse, NY \| B.A. in International Relations, Economics \| Jan 2015- Jun 2017
+
+## Research Experience
+
+University of Maryland, College Park \| Research Assistant (RA) \| Aug 2023 - Present
+
+PLAZA Projects Symposium on Korea's Foreign Affairs/Security/Trade \| Event staff and Panelist \| Jun 2022 - Present
+
+Korea SMEs&startups Institute (KOSI) \| Research Assistant (RA) \| Feb 2022 - Dec 2022
+:::
+
+------------------------------------------------------------------------
+
+

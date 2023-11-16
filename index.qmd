@@ -1,0 +1,28 @@
+---
+title: "Hyeri Park"
+image: GVPT logo.png
+
+about: 
+  template: broadside
+  image-shape: rectangle
+  image-width: 13em
+  
+  links:
+  - text: Email
+    icon: envelope
+    href: mailto:hpark100@umd.edu.zz
+  - text: GitHub
+    icon: github
+    href: https://github.com/ellieP123
+  - text: Linkedin
+    icon: linkedin
+    href: https://www.linkedin.com/in/hye-ri-park-998009b4/
+  - text: Resume
+    icon: file-text
+    href: CV_Hyeri Park_1124.pdf
+
+---
+
+
+
+\vspace{2em}

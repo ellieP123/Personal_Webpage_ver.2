@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hyeri Park",
+    "section": "",
+    "text": "GVPT logo.png){width=20%}"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hyeri is a PhD student at the University of Maryland, College Park, studying environmental and international trade issues in the Government and Politics department.\n\n\nUniversity of Maryland, College Park | College Park, MD | PhD in Government and Politics | Aug 2023 - present\nSeoul National University, Graduate School of International Studies | Seoul, South Korea | M.A. in International Commerce | Mar 2018 - Jun 2020\nSyracuse University | Syracuse, NY | B.A. in International Relations, Economics | Jan 2015- Jun 2017\n\n\n\nUniversity of Maryland, College Park | Research Assistant (RA) | Aug 2023 - Present\nPLAZA Projects Symposium on Korea’s Foreign Affairs/Security/Trade | Event staff and Panelist | Jun 2022 - Present\nKorea SMEs&startups Institute (KOSI) | Research Assistant (RA) | Feb 2022 - Dec 2022"
+  },
+  {
+    "objectID": "Working Paper.html",
+    "href": "Working Paper.html",
+    "title": "Working Paper",
+    "section": "",
+    "text": "I am currently working on this paper"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Hyeri Park",
+    "section": "",
+    "text": "University of Maryland, College Park | College Park, MD | PhD in Government and Politics | Aug 2023 - present\nSeoul National University, Graduate School of International Studies | Seoul, South Korea | M.A. in International Commerce | Mar 2018 - Jun 2020\nSyracuse University | Syracuse, NY | B.A. in International Relations, Economics | Jan 2015- Jun 2017"
+  },
+  {
+    "objectID": "index.html#research-experience",
+    "href": "index.html#research-experience",
+    "title": "Hyeri Park",
+    "section": "",
+    "text": "University of Maryland, College Park | Research Assistant (RA) | Aug 2023 - Present\nPLAZA Projects Symposium on Korea’s Foreign Affairs/Security/Trade | Event staff and Panelist | Jun 2022 - Present\nKorea SMEs&startups Institute (KOSI) | Research Assistant (RA) | Feb 2022 - Dec 2022"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "University of Maryland, College Park | College Park, MD | PhD in Government and Politics | Aug 2023 - present\nSeoul National University, Graduate School of International Studies | Seoul, South Korea | M.A. in International Commerce | Mar 2018 - Jun 2020\nSyracuse University | Syracuse, NY | B.A. in International Relations, Economics | Jan 2015- Jun 2017"
+  },
+  {
+    "objectID": "about.html#research-experience",
+    "href": "about.html#research-experience",
+    "title": "About",
+    "section": "",
+    "text": "University of Maryland, College Park | Research Assistant (RA) | Aug 2023 - Present\nPLAZA Projects Symposium on Korea’s Foreign Affairs/Security/Trade | Event staff and Panelist | Jun 2022 - Present\nKorea SMEs&startups Institute (KOSI) | Research Assistant (RA) | Feb 2022 - Dec 2022"
+  },
+  {
+    "objectID": "Class.html",
+    "href": "Class.html",
+    "title": "Class",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Class.html#quarto",
+    "href": "Class.html#quarto",
+    "title": "Class",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Class.html#running-code",
+    "href": "Class.html#running-code",
+    "title": "Class",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "index.html#quarto",
+    "href": "index.html#quarto",
+    "title": "Hyeri Park",
+    "section": "",
+    "text": "GVPT logo.png.png){width=20%}"
+  }
+]

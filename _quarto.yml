@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "UMD PhD student Hyeri's website"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - Class.qmd
+      - Working Paper.qmd
+
+format:
+  html:
+    theme: minty
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#070707"
+    linkcolor: "#6649C3"
+    monofont: courier new
+    css: styles.css
+    toc: true
+
+editor: visual
+
