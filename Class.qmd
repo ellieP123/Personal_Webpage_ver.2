@@ -1,26 +1,23 @@
 ---
-title: "Class"
-format: html
-editor: visual
+title: "PhD Class"
+listing: 
+  contents: posts
+  type: table
 ---
 
-## Quarto
+### 2023 Fall Semester
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
++----------------+--------------------------------------------+-------------------------------------+------------------------------------------------------+
+| Class number   | Class name                                 | Instructor                          | Syllabus                                             |
++================+============================================+=====================================+======================================================+
+| GVPT 600       | Professionalization Seminar in Political\  | Kathleen Cunningham & Ernesto Calvo | [600 syllabus](600_Fall23.pdf)                       |
+|                | Science                                    |                                     |                                                      |
++----------------+--------------------------------------------+-------------------------------------+------------------------------------------------------+
+| GVPT 622       | Quantitative Methods for Political Science | David Cunningham                    | [622 Syllabus](GVPT 622 Fall 2023 Syllabus.pdf)      |
+|                |                                            |                                     |                                                      |
+|                |                                            | TA: Harriet Goers                   |                                                      |
++----------------+--------------------------------------------+-------------------------------------+------------------------------------------------------+
+| GVPT 708A      | Seminar in International Relations Theory  | Scott Kastner                       | [708A Syllabus](708_Fa23_Syllabus_Final.pdf)         |
++----------------+--------------------------------------------+-------------------------------------+------------------------------------------------------+
+| GVPT 761       | International Political Economy            | Todd Allee                          | [761 Syllabus](GVPT 761 Syllabus - Fall 2023 v2.pdf) |
++----------------+--------------------------------------------+-------------------------------------+------------------------------------------------------+

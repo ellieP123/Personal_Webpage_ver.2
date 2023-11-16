@@ -5,12 +5,23 @@ project:
 website:
   title: "UMD PhD student Hyeri's website"
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: Home
       - about.qmd
       - Class.qmd
       - Working Paper.qmd
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/hye-ri-park-998009b4/
+      - icon: github
+        href: https://github.com/ellieP123/Personal_Webpage_ver.2
+      - icon: gmail
+        href: mailto:hpark100@umd.edu.zz
+ 
+  page-footer:
+    right: "Built with [Quarto](https://quarto.org/)"
+    left: "&copy; Copyright 2023, Hyeri Park"
 
 format:
   html:
